@@ -72,7 +72,7 @@ const Footer = () => {
 
           <Col lg="3" md="4" sm="6">
             <div className="mb-4">
-              <h5 className="footer__link-titile mb-4">Head Office</h5>
+              <h5 className="footer__link-titile mb-4 text-white">Head Office</h5>
               <p className="office__info">1/165 New Delhi ,India</p>
               <p className="office__info">Phone: +919517302972</p>
               <p className="office__info">Email: sarveshy200@gmail.com</p>
